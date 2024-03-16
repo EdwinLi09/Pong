@@ -1,4 +1,5 @@
 # Pong
-- Built a Pong Game in Python and Object-Oriented programming that involves paddle movement, ball physics, and scoring system.
-- Utilized knowledge in game physics, collision detection, and user interface design to create a quality gaming experience. 
+- Developed an interactive Pong Game utilizing the Pygame library, featuring game physics, collision detection, and user interface design.
+- Implemented event loops and keyboard inputs for accurate paddle control to optimize user interaction.
+- Built using Python and Object-Oriented Programming on Visual Code Studio.
 
