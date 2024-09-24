@@ -7,7 +7,7 @@ The main features that were done include:
 4. Smooth and accurate paddle control through well-implemented event loops and keyboard inputs.
 
 
-Technical Details 
+Technical Details:
 1. Python
 2. Pygame
 3. Object-Oriented Programming (OOP)
