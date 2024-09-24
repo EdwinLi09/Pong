@@ -1,15 +1,14 @@
-This project is an interactive Pong game developed using the Pygame library. It features realistic game physics, collision detection, and a user-friendly interface. The game includes event loops that keyboard inputs for precise paddle control, ensuring an optimal user experience.<br />
-The main features of this project include:
+# Pong Game 
+This project contains an interactive Pong game developed using Pygame library. The game features realistic physics, collision detection, and a user-friendly interface, providing an optimal user experience. It includes event loops that handle keyboard inputs for precise paddle control. 
 
-1. Accurate simulation of ball and paddle movements.
-2. Strong collision detection for an ideal gameplay experience.
-3. Built-in and responsive interface for enhanced user interation
-4. Smooth and accurate paddle control through well-implemented event loops and keyboard inputs.
+# Project Features 
+- Accurate simulation of ball and paddle movements.
+- Strong collision detection for an ideal gameplay experience.
+- Built-in and responsive interface for enhanced user interaction.
+- Well-implemented event loops and keyboard inputs ensure smooth and accurate paddle control.
 
-
-Technical Details:
-1. Python
-2. Pygame
-3. Object-Oriented Programming (OOP)
-4. Visual Studio Code 
+# Getting Started
+- Open the file using Visual Code Studio.
+- Make sure to install pygame.
+- Run the main python file.
 
