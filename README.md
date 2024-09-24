@@ -7,6 +7,13 @@ This project contains an interactive Pong game developed using Pygame library. T
 - Built-in and responsive interface for enhanced user interaction.
 - Well-implemented event loops and keyboard inputs ensure smooth and accurate paddle control.
 
+
+# Technical Details 
+- Python
+- Pygame
+- Object-Oriented Programming
+- Visual Studio Code
+
 # Getting Started
 - Open the file using Visual Code Studio.
 - Make sure to install pygame.
